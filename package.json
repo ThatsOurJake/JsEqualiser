@@ -1,0 +1,16 @@
+{
+  "name": "av",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -o ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
